@@ -48,14 +48,11 @@ h2 {
 }
 
 p {
-    display: block;
-}
-
-p {
     font-family: verdana, arial, helvetica, sans-serif;
     font-size: 13px;
     line-height: 18px;
     margin: 33px;
+    display: block;
 }
 
 table {
@@ -89,3 +86,4 @@ form {
     display: block;
     margin-top: 0em;
 }
+
